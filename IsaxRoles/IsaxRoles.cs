@@ -19,7 +19,7 @@ namespace IsaxRoles;
 [ReactorModFlags(ModFlags.RequireOnAllClients)]
 public partial class IsaxRoles : BasePlugin, IMiraPlugin
 {
-    public const string DisplayVersion = "1.0.0";
+    public const string DisplayVersion = "2026.11.02";
     public const string Author = "Isax820";
     public IsaxRoles()
     {
