@@ -9,7 +9,7 @@ public class Janitor : ImpostorRole, ICustomRole
     public string RoleName => "Janitor";
     public string RoleDescription => "Clean up bodies";
     public string RoleLongDescription => RoleDescription;
-    public Color RoleColor => Color.magenta;
+    public Color RoleColor => Color.black;
     public ModdedRoleTeams Team => ModdedRoleTeams.Impostor;
 
     public CustomRoleConfiguration Configuration => new CustomRoleConfiguration(this)

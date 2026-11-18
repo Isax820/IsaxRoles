@@ -4,7 +4,7 @@
 > It is **only compatible with [MiraAPI's mods](https://github.com/All-Of-Us-Mods/MiraAPI).**
 
 <p align="center">
-  <img align="center" src="https://github.com/Isax820/IsaxRoles/blob/main/.github/Images/Icon.png">
+  <img align="center" src="https://github.com/Isax820/IsaxRoles/blob/main/.github/Images/Logo.png">
   </a>
 </p>
 
