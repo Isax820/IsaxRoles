@@ -9,7 +9,7 @@
 </p>
 
 <h3 align="center">
-IsaxRoles
+Isax Roles
 </h3>
 
 <p align="center">
